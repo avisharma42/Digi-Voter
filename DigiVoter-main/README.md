@@ -158,11 +158,3 @@ Please ensure your code follows the project's coding style and includes tests wh
 
 Distributed under the MIT License. See `LICENSE` file for more information.
 
-## 📧 Contact
-
-Akshat Shah
-email: shah.akshat.g@gmail.com
-
-Project Link: [https://github.com/akshat-shah-017/DigiVoter](https://github.com/akshat-shah-017/DigiVoter)
-
----
